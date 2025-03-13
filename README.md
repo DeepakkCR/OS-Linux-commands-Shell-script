@@ -1,4 +1,4 @@
-# OS-Linux-commands-Shell-scripting
+-------------# OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
@@ -42,23 +42,29 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/254e2afa-96bc-4718-bde1-80e5326ede62)
 
 
 
 cat < file2
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/968b8301-3338-4bcb-9a89-647165d690e9)
+
 
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+ ![image](https://github.com/user-attachments/assets/d68422b4-3b14-412a-8bd2-2ee6613fa10b)
+
 comm file1 file2
  ## OUTPUT
+![image](https://github.com/user-attachments/assets/2d16a4f6-83e6-42e6-8302-799eb940e1eb)
 
  
 diff file1 file2
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/d2401c96-e81c-43be-9f49-7a2207821107)
 
 
 #Filters
@@ -82,6 +88,8 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/cbc81388-735a-4c12-aeea-260bac580fc8)
+
 
 
 
