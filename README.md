@@ -458,6 +458,7 @@ stop
 
 cat herecheck.txt
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/360c4e3e-71f0-4f62-80aa-cb283001eb00)
 
 
 cat < scriptest.sh 
