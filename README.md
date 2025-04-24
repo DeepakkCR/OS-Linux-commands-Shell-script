@@ -424,18 +424,22 @@ mv backup.tar backupdir
  
 tar -tvf backup.tar
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/efee4341-936a-47cb-a236-7a07b23e7f54)
 
 
 tar -xvf backup.tar
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/5df40a50-beff-4640-8e20-02ce85599867)
 
 gzip backup.tar
 
 ls .gz
 ## OUTPUT
- 
+ ![image](https://github.com/user-attachments/assets/1889bf5f-e798-46d7-951c-fe45defbf24c)
+
 gunzip backup.tar.gz
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/829da5ed-7c29-4a98-9de5-af8827a27ae7)
 
  
 # Shell Script
@@ -497,6 +501,7 @@ chmod 777 scriptest.sh
 ./scriptest.sh 1 2 3
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/305fbf9d-80a1-411f-ba2a-7a1fb7611ad8)
 
  
 ls file1
